@@ -1,0 +1,230 @@
+GASTRIC ANTISECRETORY, Omeprazole, Prilosec
+GASTRIC ANTISECRETORY, Ranitidine, Zantac
+GASTRIC ANTISECRETORY, Esomeprazole, Nexium
+GASTRIC ANTISECRETORY, Rabeprazole, Aciphex
+GASTRIC ANTISECRETORY, Lansoprazole, Prevacid
+GASTRIC ANTISECRETORY, Famotidine, Pepcid
+GASTRIC ANTISECRETORY, Pantoprazole, Protonix
+ANTIEMETIC, Meclizine, Bonamine
+ANTIEMETIC, Meclizine, Antivert
+ANTIEMETIC, Ondansetron, Zofran
+ANTIEMETIC, Granisetron, Kytril
+ANTIEMETIC, Granisetron, Sancuso
+ANTIEMETIC, Promethazine, Phenergan
+ANTIEMETIC, Metoclopramide, Reglan
+CORTICOSTEROIDS, Clobetasol, Temovate
+CORTICOSTEROIDS, Hydrocortisone, Ala-Cort
+CORTICOSTEROIDS, Beclomethasone, Qvar
+CORTICOSTEROIDS, Dexamethasone, Decadron
+CORTICOSTEROIDS, Triamcinolone, Aristocort
+CORTICOSTEROIDS, Fluticasone propionate, Flonase
+CORTICOSTEROIDS, Methylprednisolone, Medrol
+CORTICOSTEROIDS, Prednisolone, Flo-Pred
+CORTICOSTEROIDS, Prednisone, Deltasone
+CNS AGENTS, Dexmethylphenidate, Focalin
+CNS AGENTS, Lisdexamfetamine, Vyvanse
+CNS AGENTS, Atomoxetine, Strattera
+CNS AGENTS, Methylphenidate, Ritalin
+CNS AGENTS, Modafinil, Provigil
+CNS AGENTS, Amphetamine + dextroamphetamine, Adderall
+NSAIDS, Celecoxib, Celebrex
+NSAIDS, Nabumetone, Relafen
+NSAIDS, Ibuprofen, Motrin
+NSAIDS, Ibuprofen, Advil
+NSAIDS, Naproxen, Naprosyn
+NSAIDS, Naproxen, Aleve
+NSAIDS, Meloxicam, Mobic
+NSAIDS, Diclofenac, Voltaren
+NSAIDS, Diclofenac, Cataflam
+ANTIANXIETY, Alprazolam, Xanax
+ANTIANXIETY, Clonazepam, Klonopin
+ANTIANXIETY, Diazepam, Valium
+ANTIANXIETY, Lorazepam, Ativan
+ANTIASTHMATIC & COPD, Budesonide, Pulmicort
+ANTIASTHMATIC & COPD, Omalizumab, Xolair
+ANTIASTHMATIC & COPD, Fluticasone, Flovent
+ANTIASTHMATIC & COPD, Budesonide/Formoterol, Symbicort
+ANTIASTHMATIC & COPD, Fluticasone & Salmeterol, Advair
+ANTIASTHMATIC & COPD, Albuterol, Proventil
+ANTIASTHMATIC & COPD, Albuterol, ProAir
+ANTIASTHMATIC & COPD, Albuterol, Ventolin
+ANTIASTHMATIC & COPD, Levalbuterol, Xopenex
+ANTIASTHMATIC & COPD, Tiotropium, Spiriva
+ANTIASTHMATIC & COPD, Ipratropium + Albuterol, Combivent
+ANTIASTHMATIC & COPD, Ipratropium + Albuterol, Respimat
+NARCOTICS & ANALGESICS, Acetaminophen-Butalbital-Caffeine, Fioricet
+NARCOTICS & ANALGESICS, Phenazopyridine, Pyridium
+NARCOTICS & ANALGESICS, Hydrocodone & Acetaminophen, Vicodin
+NARCOTICS & ANALGESICS, Acetaminophen, Tylenol
+NARCOTICS & ANALGESICS, Eletriptan, Relpax
+NARCOTICS & ANALGESICS, Oxycodone, Oxycontin
+NARCOTICS & ANALGESICS, Tramadol, Ultram
+NARCOTICS & ANALGESICS, Sumatriptan, Imitrex
+ANTIHYPERLIPIDEMICS, Omega-3 fatty acids, Lovaza
+ANTIHYPERLIPIDEMICS, Simvastatin, Zocor
+ANTIHYPERLIPIDEMICS, Lovastatin, Altoprev
+ANTIHYPERLIPIDEMICS, Lovastatin, Mevacor
+ANTIHYPERLIPIDEMICS, Atorvastatin, Lipitor
+ANTIHYPERLIPIDEMICS, Pravastatin, Pravachol
+ANTIHYPERLIPIDEMICS, Rosuvastatin, Crestor
+ANTIHYPERLIPIDEMICS, Fenofibrate, Tricor
+ANTIHYPERLIPIDEMICS, Fenofibrate, Antara
+ANTIHYPERLIPIDEMICS, Gemfibrozil, Lopid
+ANTIHYPERLIPIDEMICS, Ezetimibe, Zetia
+ANTIFUNGAL, Fluconazole, Diflucan
+ANTIFUNGAL, Ketoconazole, Nizoral Topical
+ANTIFUNGAL, Clotrimazole, Lotrimin
+ANTIFUNGAL, Nystatin Topical, Nystop
+ANTIFUNGAL, Nystatin Topical, Mycostatin
+ANTIFUNGAL, Itraconazole, Sporanox
+IMMUNOSUPPRESSIVE / ANTI-INFLAMMATORY AGENTS, Methotrexate, Trexall
+IMMUNOSUPPRESSIVE / ANTI-INFLAMMATORY AGENTS, Methotrexate, Otrexup
+IMMUNOSUPPRESSIVE / ANTI-INFLAMMATORY AGENTS, Etanercept, Enbrel
+IMMUNOSUPPRESSIVE / ANTI-INFLAMMATORY AGENTS, Adalimumab, Humira
+IMMUNOSUPPRESSIVE / ANTI-INFLAMMATORY AGENTS, Hydroxychloroquine, Plaquenil
+ANTIHYPERTENSIVE, Triamterene, Dyrenium
+ANTIHYPERTENSIVE, Furosemide, Lasix
+ANTIHYPERTENSIVE, Hydrochlorothiazide, Esidrix
+ANTIHYPERTENSIVE, Hydrochlorothiazide, Aquazide
+ANTIHYPERTENSIVE, Doxazosin, Cardura
+ANTIHYPERTENSIVE, Terazosin, Hytrin
+ANTIHYPERTENSIVE, Propranolol, Inderal
+ANTIHYPERTENSIVE, Atenolol, Tenormin
+ANTIHYPERTENSIVE, Metoprolol, Toprol
+ANTIHYPERTENSIVE, Metoprolol, Lopressor
+ANTIHYPERTENSIVE, Carvedilol, Coreg
+ANTIHYPERTENSIVE, Benazepril, Lotensin
+ANTIHYPERTENSIVE, Nebivolol, Bystolic
+ANTIHYPERTENSIVE, Hydralazine, Apresoline
+ANTIHYPERTENSIVE, Enalapril, Vasotec
+ANTIHYPERTENSIVE, Lisinopril, Prinivil
+ANTIHYPERTENSIVE, Lisinopril, Zestril
+ANTIHYPERTENSIVE, Ramipril, Altace
+ANTIHYPERTENSIVE, Losartan, Cozaar
+ANTIHYPERTENSIVE, Olmesartan, Benicar
+ANTIHYPERTENSIVE, Valsartan, Diovan
+ANTIHYPERTENSIVE, Amlodipine, Norvasc
+OSTEOPOROSIS, Raloxifene, Evista
+OSTEOPOROSIS, Alendronate, Fosamax
+OSTEOPOROSIS, Denosumab, Xgeva
+OSTEOPOROSIS, Denosumab, Prolia
+OSTEOPOROSIS, Risedronate, Actonel
+OSTEOPOROSIS, Ibandronate, Boniva
+MUSCLE RELAXANTS, Baclofen, Lioresal
+MUSCLE RELAXANTS, Carisoprodol, Soma
+MUSCLE RELAXANTS, Cyclobenzaprine, Flexeril
+MUSCLE RELAXANTS, Methocarbamol, Carbacot
+MUSCLE RELAXANTS, Methocarbamol, Robaxin
+MUSCLE RELAXANTS, Tizanidine, Zanaflex
+ANTIBIOTICS, Azithromycin, Zithromax
+ANTIBIOTICS, Moxifloxacin, Avelox
+ANTIBIOTICS, Amoxicillin, Amoxil
+ANTIBIOTICS, Amoxicillin, Trimox
+ANTIBIOTICS, Penicillin, Pen V
+ANTIBIOTICS, Penicillin, PC Pen VK
+ANTIBIOTICS, Amoxicillin & Clavulanic acid, Augmentin
+ANTIBIOTICS, Cefdinir, Omnicef
+ANTIBIOTICS, Cefuroxime, Ceftin
+ANTIBIOTICS, Metronidazole, Flagyl
+ANTIBIOTICS, Cephalexin, Keflex
+ANTIBIOTICS, Doxycycline, Vibramycin
+ANTIBIOTICS, Clarithromycin, Biaxin
+ANTIBIOTICS, Nitrofurantoin, Macrobid
+ANTIBIOTICS, Clindamycin, Cleocin
+ANTIBIOTICS, Mupirocin, Bactroban
+ANTIBIOTICS, Trimethoprim & Sulfamethoxazole, Bactrim
+ANTIBIOTICS, Ciprofloxacin, Cipro
+ANTIBIOTICS, Ciprofloxacin, Proquin
+ANTIBIOTICS, Levofloxacin, Levaquin
+ANTIVIRAL, Valganciclovir, Valcyte
+ANTIVIRAL, Acyclovir, Zovirax
+ANTIVIRAL, Oseltamivir, Tamiflu
+ANTIVIRAL, Valacyclovir, Valtrex
+ANTI-CONVULSANT, Valproate sodium, Depacon
+ANTI-CONVULSANT, Valproate sodium, Depakote
+ANTI-CONVULSANT, Phenytoin, Dilantin
+ANTI-CONVULSANT, Gabapentin, Neurontin
+ANTI-CONVULSANT, Lamotrigine, Lamictal
+ANTI-CONVULSANT, Carbamazepine, Tegretol
+ANTI-CONVULSANT, Levetiracetam, Keppra
+ANTI-CONVULSANT, Oxcarbazepine, Trileptal
+ANTI-CONVULSANT, Pregabalin, Lyrica
+ANTI-CONVULSANT, Topiramate, Topamax
+ANTICOAGULANTS, Warfarin, Coumadin
+ANTICOAGULANTS, Dabigatran, Pradaxa
+ANTICOAGULANTS, Apixaban, Eliquis
+ANTICOAGULANTS, Rivaroxaban, Xarelto
+ANTICOAGULANTS, Enoxaparin, Lovenox
+ERECTILE DYSFUNCTION, Vardenafil, Levitra
+ERECTILE DYSFUNCTION, Tadalafil, Cialis
+ERECTILE DYSFUNCTION, Sildenafil, Viagra
+ANTIDEPRESSANTS, Trazodone, Desyrel
+ANTIDEPRESSANTS, Citalopram, Celexa
+ANTIDEPRESSANTS, Escitalopram, Lexapro
+ANTIDEPRESSANTS, Imipramine, Tofranil
+ANTIDEPRESSANTS, Fluoxetine, Prozac
+ANTIDEPRESSANTS, Fluoxetine, Sarafem
+ANTIDEPRESSANTS, Paroxetine, Paxil
+ANTIDEPRESSANTS, Sertraline, Zoloft
+ANTIDEPRESSANTS, Venlafaxine, Effexor
+ANTIDEPRESSANTS, Amitriptyline, Elavil
+ANTIDEPRESSANTS, Nortriptyline, Pamelor
+ANTIPSYCHOTICS, Olanzapine, Zyprexa
+ANTIPSYCHOTICS, Quetiapine, Seroquel
+ANTIPSYCHOTICS, Aripiprazole, Abilify
+ANTIPSYCHOTICS, Clozapine, Clozaril
+ANTIPSYCHOTICS, Haloperidol, Haldol
+ANTIPSYCHOTICS, Risperidone, Risperdal
+ANTIPSYCHOTICS, Benztropine, Cogentin
+ANTIPARKINSONIAN, Levodopa, Inbrija
+ANTIPARKINSONIAN, Levodopa, Dopar
+ANTIPARKINSONIAN, Levodopa, Larodopa
+ANTIPARKINSONIAN, Ropinirole, Requip
+ANTIPARKINSONIAN, Pramipexole, Mirapex
+ANTIPARKINSONIAN, Carbidopa-levodopa-entacapone, Stalevo 50
+ANTIDIABETIC, Insulin Isophane, HumuLIN
+ANTIDIABETIC, Metformin, Glucophage
+ANTIDIABETIC, Glibenclamide, DiaBeta
+ANTIDIABETIC, Sitagliptin, Januvia
+ANTIDIABETIC, Glimepiride, Amaryl
+ANTIDIABETIC, Glipizide, Glucotrol
+ANTIDIABETIC, Pioglitazone, Actos
+ANTIDIABETIC, Canagliflozin, Invokana
+ANTIDIABETIC, Liraglutide, Victoza
+ANTIDIABETIC, Liraglutide, Saxenda
+ANTIDIABETIC, Insulin Aspart, NovoLog
+ANTIDIABETIC, Insulin Lispro, Humalog
+ANTIDIABETIC, Insulin Detemir, Levemir
+ANTIDIABETIC, Insulin Glargine, Lantus
+ANTIDIABETIC, Insulin Glargine, Toujeo
+HORMONES, Levothyroxine, Synthroid
+HORMONES, Estradiol, Estrace
+HORMONES, Tamoxifen, Nolvadex
+HORMONES, Anastrozole, Arimidex
+HORMONES, Conjugated estrogens, Premarin
+HORMONES, Medroxyprogesterone, Provera
+HORMONES, Medroxyprogesterone, Depo-Provera
+HORMONES, Ethinyl estradiol Drospirenone, Yaz
+Nitrate, Isosorbide Mononitrate, Imdur
+Nitrate, Nitroglycerin, Minitran
+Nitrate, Nitroglycerin, Nitrostat
+Nitrate, Nitroglycerin, Nitro-Dur
+Laxative, Senna, Ex-Lax
+Laxative, Senna, Senna Lax
+Laxative, Lactulose, Constulose
+Cardiovascular Agent, Digoxin, Lanoxin
+Cardiovascular Agent, Amiodarone, Cordarone
+Cold, Benzonatate, Tessalon Perles
+Gout, Allopurinol, Zyloprim
+Antiseptic, Chlorhexidine, BetaSept
+Antiseptic, Chlorhexidine, ChloraPrep
+Hypnotic, Zolpidem, Ambien
+Hypnotic, Eszopiclone, Lunesta
+Gout, Colchicine, Colcrys
+Gout, Colchicine, Mitigare
+Pain Medicine, Temazepam, Restoril
+Local Anesthetic, Lidocaine, Lidoderm
+Smoking Cessation, Varenicline, Chantix
+Integrase Inhibitor, Raltegravir, Isentress
+Alzheimers, Donepezil, Aricept
+Alzheimers, Memantine, Namenda
